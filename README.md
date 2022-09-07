@@ -1,2 +1,2 @@
-# fack-new-prediction
-my model will predict that new is fake or not
+# fack-news-prediction
+my model will predict that news is fake or not
